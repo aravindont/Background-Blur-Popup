@@ -1,6 +1,6 @@
 # Blurred Backgound Popup
 
-[bbp](https://aravindont.github.io/Background-Blur-Popup/)
+[Live-Link](https://aravindont.github.io/Background-Blur-Popup/)
 
 Preview of Project
 
